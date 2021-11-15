@@ -1,6 +1,6 @@
 ---
 title: "INT214: Workshop"
-author: "by: _____________"
+author: "by: Nutnaree Seesawai 63130500030"
 output: html_document
 ---
 
